@@ -1,12 +1,27 @@
-# React + Vite
+Dashboard UI
+A modern, responsive dashboard UI built with React, Vite, and shadcn/ui components. This project demonstrates clean code architecture, component reusability, and modern React development practices.
+Show Image
+🚀 Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Responsive Design: Works seamlessly across desktop, tablet, and mobile devices
+Modern UI Components: Built with shadcn/ui for consistent and accessible design
+Interactive Data Table: Sortable columns, search functionality, and filtering options
+Collapsible Sidebar: Space-efficient navigation with toggle functionality
+Loading States: Skeleton loaders for better user experience
+React Router Integration: Client-side routing for smooth navigation
+Dashboard Analytics: Overview cards with key metrics and statistics
+Clean Code Structure: Well-organized components and maintainable codebase
 
-Currently, two official plugins are available:
+🛠️ Technology Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Frontend Framework: React 18
+Build Tool: Vite
+Styling: Tailwind CSS
+UI Components: shadcn/ui
+Icons: Lucide React
+Routing: React Router DOM
+State Management: React Hooks
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+https://dashboard-ui-roan.vercel.app/
